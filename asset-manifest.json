@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beaul.dev/static/css/main.1332ce94.css",
+    "main.js": "/beaul.dev/static/js/main.d6612a73.js",
+    "index.html": "/beaul.dev/index.html",
+    "main.1332ce94.css.map": "/beaul.dev/static/css/main.1332ce94.css.map",
+    "main.d6612a73.js.map": "/beaul.dev/static/js/main.d6612a73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1332ce94.css",
+    "static/js/main.d6612a73.js"
+  ]
+}
