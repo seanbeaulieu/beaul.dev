@@ -1,5 +1,6 @@
 import React from "react";
-
+import LinkedInIcon from './images/linkedin.png';
+import MailIcon from './images/mail.png';
 
 export default function Contact() {
     return (
@@ -19,7 +20,7 @@ export default function Contact() {
             style={{ display: "flex", alignItems: "center" }}
           >
             <img
-              src="./linkedin.png"
+              src={LinkedInIcon}
               alt="linkedin logo"
               style={{ width: "450px", height: "450px", marginRight: "10px" }}
             />
@@ -31,7 +32,7 @@ export default function Contact() {
             style={{ display: "flex", alignItems: "center" }}
           >
             <img
-              src="./mail.png"
+              src={MailIcon}
               alt="mail logo"
               style={{ width: "450px", height: "450px", marginRight: "10px" }}
             />
